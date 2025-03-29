@@ -1,4 +1,4 @@
-This account exists for my studying programing 
+Mac買ったのでモバイルアプリメインに勉強していきます
 
 <!---
 yacht-twr/yacht-twr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
